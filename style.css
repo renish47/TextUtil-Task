@@ -1,0 +1,54 @@
+button{
+  margin: 10px 7px 10px 0;
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 2px 5px;
+  background-color: rgba(50, 167, 235, 0.973);
+  color: white;
+}
+
+h3{
+  color: rgba(50, 167, 235, 0.973);;
+}
+
+span{
+  font-weight: bold;
+  color: black;
+}
+
+textarea{
+  font-size: 18px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.endStatus i{
+  color: rgb(45, 169, 45);
+  
+}
+.endStatus{
+  text-align: right;
+  display: none;
+}
+
+#approx{
+  font-weight: lighter;
+  font-size: 14px;
+  padding-left: 10px;
+}
+
+.table{
+  width: 89%;
+  margin: 20px auto;
+  color: grey;
+}
+
+.table th{
+  padding: 5px; 
+}
+
+button:hover{
+  color: black;
+  background-color: white;
+  border: 1px solid black ;
+}
+
